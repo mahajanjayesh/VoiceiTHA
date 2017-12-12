@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="3548903279881"
+    token="2654370970623994338"
+    verifier="METHOD_ADDED" >
+
+    <task
+        name="javac"
+        duration="112" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="3522702892777"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/jm/Desktop/DD/VoiceiTHA/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3548903279881"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

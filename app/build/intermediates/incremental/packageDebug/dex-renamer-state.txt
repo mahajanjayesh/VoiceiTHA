@@ -1,0 +1,7 @@
+#Thu Feb 02 18:43:55 IST 2017
+base.0=/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d7b16343b4038938d374693c42c6d7de3fd6824
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_164d4d62dceba90692393662f491ca61fb6636ac/classes.dex
+base.1=/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_164d4d62dceba90692393662f491ca61fb6636ac
+file.0=/home/jm/Desktop/DD/VoiceiTHA/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d7b16343b4038938d374693c42c6d7de3fd6824/classes.dex

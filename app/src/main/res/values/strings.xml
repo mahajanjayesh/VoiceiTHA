@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HA-Voice iT !!</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Speak Command</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">OCR!</string>
+    <string name="text_hint">OCRed Text will appear here</string>
+    <string name="tap_on_mic_to_speak">Tap on mic to speak</string>
+    <string name="icon">icon</string>
+</resources>
